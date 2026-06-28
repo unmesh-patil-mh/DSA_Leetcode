@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -63,4 +64,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 <!---LeetCode Topics End-->

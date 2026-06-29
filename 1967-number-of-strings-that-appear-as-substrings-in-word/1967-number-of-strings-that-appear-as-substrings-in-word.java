@@ -1,87 +1,72 @@
 class Solution {
-    class Node {
-        Node[] c = new Node[26];
-        Node f;
-        Node l;
-        int n = 0;
+
+    static class Node {
+        Node[] next = new Node[26];
+        Node fail, last;
+        int count;
     }
 
     public int numOfStrings(String[] patterns, String word) {
+
         Node root = new Node();
-        
-        for (int i = 0; i < patterns.length; i++) {
-            Node curr = root;
-            String p = patterns[i];
-            
-            for (int j = 0; j < p.length(); j++) {
-                int x = p.charAt(j) - 97;
-                
-                if (curr.c[x] == null)
-                    curr.c[x] = new Node();
-                    
-                curr = curr.c[x];
+
+        // Build Trie
+        for (String p : patterns) {
+            Node cur = root;
+            for (int i = 0, len = p.length(); i < len; i++) {
+                int idx = p.charAt(i) - 'a';
+                if (cur.next[idx] == null)
+                    cur.next[idx] = new Node();
+                cur = cur.next[idx];
             }
-            
-            curr.n++;
+            cur.count++;
         }
-        
-        Node[] q = new Node[10005];
-        int hd = 0;
-        int tl = 0;
-        
+
+        Node[] queue = new Node[10005];
+        int head = 0, tail = 0;
+
+        root.fail = root;
+
         for (int i = 0; i < 26; i++) {
-            if (root.c[i] == null) {
-                root.c[i] = root;
-                continue;
+            if (root.next[i] == null) {
+                root.next[i] = root;
+            } else {
+                Node child = root.next[i];
+                child.fail = root;
+                queue[tail++] = child;
             }
-            
-            root.c[i].f = root;
-            root.c[i].l = null;
-            q[tl] = root.c[i];
-            tl++;
         }
-        
-        while (hd < tl) {
-            Node curr = q[hd];
-            hd++;
-            
+
+        while (head < tail) {
+            Node cur = queue[head++];
+
             for (int i = 0; i < 26; i++) {
-                if (curr.c[i] == null) {
-                    curr.c[i] = curr.f.c[i];
+                Node child = cur.next[i];
+
+                if (child == null) {
+                    cur.next[i] = cur.fail.next[i];
                     continue;
                 }
-                
-                curr.c[i].f = curr.f.c[i];
-                
-                if (curr.c[i].f.n == 0)
-                    curr.c[i].l = curr.c[i].f.l;
-                else
-                    curr.c[i].l = curr.c[i].f;
-                    
-                q[tl] = curr.c[i];
-                tl++;
+
+                Node f = cur.fail.next[i];
+                child.fail = f;
+                child.last = (f.count > 0) ? f : f.last;
+                queue[tail++] = child;
             }
         }
-        
-        Node curr = root;
-        int res = 0;
-        
-        for (int i = 0; i < word.length(); i++) {
-            int x = word.charAt(i) - 97;
-            curr = curr.c[x];
-            
-            Node m = curr;
-            
-            while (m != null) {
-                res += m.n;
-                m.n = 0;
-                
-                Node tmp = m.l;
-                m.l = null;
-                m = tmp;
+
+        int ans = 0;
+        Node cur = root;
+
+        for (int i = 0, len = word.length(); i < len; i++) {
+            cur = cur.next[word.charAt(i) - 'a'];
+
+            for (Node t = cur; t != null; t = t.last) {
+                ans += t.count;
+                t.count = 0;
             }
         }
-        
-        return res;
+
+        return ans;
     }
 }

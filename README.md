@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |

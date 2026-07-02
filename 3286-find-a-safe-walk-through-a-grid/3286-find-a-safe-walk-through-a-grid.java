@@ -1,33 +1,50 @@
-class Solution{
-    boolean[][] visited;
-    public boolean findSafeWalk(List<List<Integer>> grid, int health){
-        int m = grid.size(),n = grid.get(0).size();
-        if(health >= m + n)
-            return true;
-        visited = new boolean[m][n];
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->Integer.compare(b[2],a[2]));
-        pq.offer(new int[]{0,0,grid.get(0).get(0) == 1 ? health - 1 : health});
-        while(!pq.isEmpty()){
-                int node[] = pq.poll();
-                if(node[0] == m - 1 && node[1] == n - 1){
-                    return true;
-                }
-                if(visited[node[0]][node[1]])
+class Solution {
+    private static final int[][] DIRS = {{1,0},{-1,0},{0,1},{0,-1}};
+
+    public boolean findSafeWalk(List<List<Integer>> grid, int health) {
+        int m = grid.size();
+        int n = grid.get(0).size();
+
+        PriorityQueue<int[]> pq = new PriorityQueue<>(
+                (a, b) -> b[2] - a[2]);
+
+        int startHealth = health - grid.get(0).get(0);
+        if (startHealth <= 0) return false;
+
+        int[][] best = new int[m][n];
+        best[0][0] = startHealth;
+
+        pq.offer(new int[]{0, 0, startHealth});
+
+        while (!pq.isEmpty()) {
+            int[] cur = pq.poll();
+
+            int x = cur[0];
+            int y = cur[1];
+            int h = cur[2];
+
+            if (x == m - 1 && y == n - 1)
+                return true;
+
+            if (h < best[x][y])
+                continue;
+
+            for (int[] d : DIRS) {
+                int nx = x + d[0];
+                int ny = y + d[1];
+
+                if (nx < 0 || ny < 0 || nx >= m || ny >= n)
                     continue;
-                visited[node[0]][node[1]] = true;
-                int[][]dirs = new int[][]{{-1,0},{1,0},{0,-1},{0,1}};
-                for(int[]move : dirs){
-                    int i = node[0] + move[0],j = node[1] + move[1];
-                    if(i < 0 || j < 0 || i >= m || j >= n || visited[i][j]){
-                        continue;
-                    }
-                    int[] newNode = new int[]{i,j,grid.get(i).get(j) == 1 ? node[2] - 1 : node[2]};
-                    if(newNode[2] >= 1){ 
-                        pq.offer(newNode);
-                    }
+
+                int nh = h - grid.get(nx).get(ny);
+
+                if (nh > best[nx][ny] && nh >= 1) {
+                    best[nx][ny] = nh;
+                    pq.offer(new int[]{nx, ny, nh});
                 }
-            
+            }
         }
+
         return false;
     }
 }

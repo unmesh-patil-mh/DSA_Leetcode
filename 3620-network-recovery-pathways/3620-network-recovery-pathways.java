@@ -1,25 +1,32 @@
 class Solution {
-    private boolean check(long mid, List<int[]>[] adj, List<Integer> topo,
+
+    private boolean check(int minEdge, List<int[]>[] adj, int[] topo,
                           boolean[] online, long k, int n) {
 
-        long INF = (long) 1e18;
+        final long INF = Long.MAX_VALUE;
         long[] dist = new long[n];
         Arrays.fill(dist, INF);
         dist[0] = 0;
 
-        for (int u : topo) {
-            if (dist[u] == INF) continue;
+        for (int idx = 0; idx < n; idx++) {
+            int u = topo[idx];
+
+            long du = dist[u];
+            if (du == INF) continue;
 
             if (u != 0 && u != n - 1 && !online[u]) continue;
 
-            for (int[] edge : adj[u]) {
-                int v = edge[0];
-                int w = edge[1];
+            List<int[]> list = adj[u];
+            for (int i = 0, sz = list.size(); i < sz; i++) {
+                int[] e = list.get(i);
 
-                if (w < mid) continue;
+                if (e[1] < minEdge) continue;
+
+                int v = e[0];
                 if (v != n - 1 && !online[v]) continue;
 
-                dist[v] = Math.min(dist[v], dist[u] + w);
+                long nd = du + e[1];
+                if (nd < dist[v]) dist[v] = nd;
             }
         }
 
@@ -35,52 +42,45 @@ class Solution {
             adj[i] = new ArrayList<>();
 
         int[] indegree = new int[n];
-
         int maxEdge = 0;
 
         for (int[] e : edges) {
-            int u = e[0];
-            int v = e[1];
-            int w = e[2];
-
-            adj[u].add(new int[]{v, w});
-            indegree[v]++;
-            maxEdge = Math.max(maxEdge, w);
+            adj[e[0]].add(new int[]{e[1], e[2]});
+            indegree[e[1]]++;
+            if (e[2] > maxEdge) maxEdge = e[2];
         }
 
-        Queue<Integer> q = new LinkedList<>();
+        int[] topo = new int[n];
+        int[] queue = new int[n];
 
-        for (int i = 0; i < n; i++) {
+        int head = 0, tail = 0, idx = 0;
+
+        for (int i = 0; i < n; i++)
             if (indegree[i] == 0)
-                q.offer(i);
-        }
+                queue[tail++] = i;
 
-        List<Integer> topo = new ArrayList<>();
+        while (head < tail) {
+            int u = queue[head++];
+            topo[idx++] = u;
 
-        while (!q.isEmpty()) {
-            int u = q.poll();
-            topo.add(u);
-
-            for (int[] edge : adj[u]) {
-                int v = edge[0];
-                indegree[v]--;
-
-                if (indegree[v] == 0)
-                    q.offer(v);
+            List<int[]> list = adj[u];
+            for (int i = 0, sz = list.size(); i < sz; i++) {
+                int v = list.get(i)[0];
+                if (--indegree[v] == 0)
+                    queue[tail++] = v;
             }
         }
 
-        long low = 0, high = maxEdge;
-        int ans = -1;
+        int lo = 0, hi = maxEdge, ans = -1;
 
-        while (low <= high) {
-            long mid = low + (high - low) / 2;
+        while (lo <= hi) {
+            int mid = (lo + hi) >>> 1;
 
             if (check(mid, adj, topo, online, k, n)) {
-                ans = (int) mid;
-                low = mid + 1;
+                ans = mid;
+                lo = mid + 1;
             } else {
-                high = mid - 1;
+                hi = mid - 1;
             }
         }
 

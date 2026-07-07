@@ -16,6 +16,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -1,82 +1,89 @@
+import java.util.*;
+
 class Solution {
     public int[] pathExistenceQueries(int n, int[] nums, int maxDiff, int[][] queries) {
 
-        int[][] sortedNums = new int[n][2];
+        // Store (value,index) in one long
+        long[] arr = new long[n];
         for (int i = 0; i < n; i++) {
-            sortedNums[i][0] = nums[i];
-            sortedNums[i][1] = i;
+            arr[i] = (((long) nums[i]) << 32) | (i & 0xffffffffL);
         }
 
-        Arrays.sort(sortedNums, Comparator.comparingInt(a -> a[0]));
+        Arrays.sort(arr);
 
+        int[] values = new int[n];
         int[] point = new int[n];
+
         for (int i = 0; i < n; i++) {
-            point[sortedNums[i][1]] = i;
+            values[i] = (int) (arr[i] >> 32);
+            point[(int) arr[i]] = i;
         }
 
-        int[] up = new int[n + 1];
+        // Sliding window
+        int[] up = new int[n];
         int j = 0;
 
         for (int i = 0; i < n; i++) {
-            while (j + 1 < n && sortedNums[j + 1][0] - sortedNums[i][0] <= maxDiff) {
+            while (j + 1 < n && values[j + 1] - values[i] <= maxDiff) {
                 j++;
             }
             if (j < i) j = i;
             up[i] = j;
         }
 
-        int temp = n;
-        int k = 0;
-        while (temp != 0) {
-            k++;
-            temp /= 2;
-        }
+        int LOG = 32 - Integer.numberOfLeadingZeros(n);
 
-        int[][] dp = new int[n + 1][k + 1];
+        int[][] dp = new int[n][LOG];
 
         for (int i = 0; i < n; i++) {
             dp[i][0] = up[i];
         }
 
-        for (int col = 1; col < k; col++) {
+        for (int b = 1; b < LOG; b++) {
             for (int i = 0; i < n; i++) {
-                dp[i][col] = dp[dp[i][col - 1]][col - 1];
+                dp[i][b] = dp[dp[i][b - 1]][b - 1];
             }
         }
 
-        int[] ans = new int[queries.length];
-        int idx = 0;
+        int m = queries.length;
+        int[] ans = new int[m];
 
-        for (int[] q : queries) {
-            int u = q[0], v = q[1];
+        for (int qi = 0; qi < m; qi++) {
+
+            int u = point[queries[qi][0]];
+            int v = point[queries[qi][1]];
 
             if (u == v) {
-                ans[idx++] = 0;
+                ans[qi] = 0;
                 continue;
             }
 
-            int st = Math.min(point[u], point[v]);
-            int en = Math.max(point[u], point[v]);
+            int st, en;
+            if (u < v) {
+                st = u;
+                en = v;
+            } else {
+                st = v;
+                en = u;
+            }
 
             if (up[st] == st) {
-                ans[idx++] = -1;
+                ans[qi] = -1;
                 continue;
             }
 
             int node = st;
-            int step = 0;
+            int jumps = 0;
 
-            for (int i = k - 1; i >= 0; i--) {
-                if (dp[node][i] < en) {
-                    node = dp[node][i];
-                    step += (1 << i);
+            for (int b = LOG - 1; b >= 0; b--) {
+                int nxt = dp[node][b];
+                if (nxt < en) {
+                    node = nxt;
+                    jumps += 1 << b;
                 }
             }
 
-            if (up[node] < en)
-                ans[idx++] = -1;
-            else
-                ans[idx++] = step + 1;
+            ans[qi] = (up[node] >= en) ? jumps + 1 : -1;
         }
 
         return ans;

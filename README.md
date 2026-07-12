@@ -29,6 +29,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
@@ -55,6 +56,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Segment Tree
@@ -104,6 +106,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |

@@ -1,4 +1,4 @@
-# DSA_Leetcode
+# DSA_Leetcod
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String

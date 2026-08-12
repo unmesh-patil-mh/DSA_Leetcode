@@ -79,6 +79,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -99,6 +100,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2043-simple-bank-system](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -178,6 +180,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

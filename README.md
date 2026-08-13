@@ -9,6 +9,7 @@
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -78,6 +79,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2043-simple-bank-system](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -118,6 +120,7 @@
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -319,4 +322,8 @@
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1510-stone-game-iv](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1510-stone-game-iv/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 <!---LeetCode Topics End-->

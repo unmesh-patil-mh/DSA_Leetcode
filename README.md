@@ -94,6 +94,7 @@
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -116,6 +117,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3731-find-missing-elements](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3731-find-missing-elements/) | Easy |

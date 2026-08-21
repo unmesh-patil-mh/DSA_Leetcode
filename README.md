@@ -39,6 +39,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -94,6 +95,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -208,6 +210,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -277,6 +280,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1386-cinema-seat-allocation](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -285,6 +289,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -310,6 +315,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |

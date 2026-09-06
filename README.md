@@ -83,6 +83,7 @@
 | [0014-longest-common-prefix](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0162-find-peak-element](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0486-predict-the-winner](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -245,6 +246,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0162-find-peak-element](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |

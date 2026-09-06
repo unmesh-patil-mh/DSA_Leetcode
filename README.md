@@ -89,6 +89,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0877-stone-game](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0877-stone-game/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1140-stone-game-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -249,6 +250,7 @@
 | [0162-find-peak-element](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -416,4 +418,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->

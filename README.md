@@ -64,6 +64,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0115-distinct-subsequences](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
+| [0410-split-array-largest-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
@@ -87,6 +88,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0162-find-peak-element](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0486-predict-the-winner](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -187,6 +189,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1140-stone-game-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1872-stone-game-viii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -211,6 +214,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -252,6 +256,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |

@@ -323,6 +323,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -434,4 +435,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1095-find-in-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 <!---LeetCode Topics End-->

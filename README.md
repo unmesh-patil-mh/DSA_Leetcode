@@ -92,6 +92,7 @@
 | [0048-rotate-image](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0162-find-peak-element](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0486-predict-the-winner](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
@@ -265,6 +266,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0268-missing-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -337,6 +339,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -345,6 +348,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -451,4 +455,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->

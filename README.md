@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -482,4 +483,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->

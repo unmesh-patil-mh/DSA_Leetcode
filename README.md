@@ -10,6 +10,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -171,6 +172,7 @@
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2043-simple-bank-system](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -246,6 +248,7 @@
 | [0410-split-array-largest-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2029-stone-game-ix](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -266,6 +269,7 @@
 | [1288-remove-covered-intervals](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |

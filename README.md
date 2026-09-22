@@ -100,6 +100,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0041-first-missing-positive](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0041-first-missing-positive/) | Hard |
@@ -380,6 +381,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |

@@ -9,6 +9,7 @@
 | [0115-distinct-subsequences](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -33,6 +34,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -179,6 +181,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -280,6 +283,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0645-set-mismatch/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -328,6 +332,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -461,6 +466,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |

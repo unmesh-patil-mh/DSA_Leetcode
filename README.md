@@ -212,6 +212,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0041-first-missing-positive/) | Hard |
+| [0141-linked-list-cycle](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0268-missing-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -450,6 +451,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -560,6 +562,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0141-linked-list-cycle](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -585,6 +588,7 @@
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |

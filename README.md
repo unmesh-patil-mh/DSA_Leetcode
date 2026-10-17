@@ -59,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0202-happy-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0486-predict-the-winner](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -214,6 +215,7 @@
 | [0041-first-missing-positive](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
@@ -454,6 +456,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0141-linked-list-cycle](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -593,6 +596,7 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0202-happy-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |

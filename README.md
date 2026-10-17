@@ -454,6 +454,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0061-rotate-list](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0202-happy-number](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0202-happy-number/) | Easy |
@@ -567,6 +568,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0061-rotate-list](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |

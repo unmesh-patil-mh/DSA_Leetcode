@@ -557,6 +557,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |

@@ -508,6 +508,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0486-predict-the-winner](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0486-predict-the-winner/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Game Theory
@@ -557,6 +558,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Ternary Search

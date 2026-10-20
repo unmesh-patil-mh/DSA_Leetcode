@@ -99,6 +99,7 @@
 | [3871-count-commas-in-range-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +213,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Hash Table
@@ -308,6 +310,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
+| [3886-sum-of-sortable-integers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +365,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

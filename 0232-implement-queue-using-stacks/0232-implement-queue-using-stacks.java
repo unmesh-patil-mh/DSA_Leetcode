@@ -8,49 +8,32 @@ class MyQueue {
         Second = new Stack<>();
     }
     
+    // Pop EFFECTIVE Solution
     public void push(int x) {
-        first.push(x);
-    }
-    
-    public int pop() {
-        if(first.isEmpty()) {
-        	return -1;
-        }
-        
-        // Copying first Element Array into Second as in reverse order
         while(!first.isEmpty()) {
         	Second.push(first.pop());
         }
         
-        int removed =  Second.pop();
+        // adding on top of Second
+        Second.push(x);
         
-        // Returning All Elements back to first
-        while(!Second.isEmpty()) {
+        while(!Second.isEmpty()){
         	first.push(Second.pop());
         }
-        
-        return removed;
+    }
+    
+    public int pop() {
+        return first.pop();
     }
     
     public int peek() {
-    	while(!first.isEmpty()) {
-    		Second.push(first.pop());
-    	}
-    	
-    	int peeked = Second.peek();
-    	
-    	while(!Second.isEmpty()) {
-    		first.push(Second.pop());
-    	}
-    	
-    	return peeked;
+    	return first.peek();
     }
     
     public boolean empty() {
         if(first.isEmpty()) {
         	return true;
         }
-        
         return false;
     }
 }

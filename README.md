@@ -46,6 +46,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0232-implement-queue-using-stacks](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
@@ -522,6 +523,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [2043-simple-bank-system](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -660,4 +662,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->

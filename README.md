@@ -133,6 +133,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +220,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -450,6 +452,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -508,6 +511,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -163,6 +163,7 @@
 | [1140-stone-game-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -299,6 +300,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1267-count-servers-that-communicate](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2029-stone-game-ix](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -429,6 +431,7 @@
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1254-number-of-closed-islands](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -440,6 +443,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -463,6 +467,7 @@
 | [0835-image-overlap](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
@@ -494,6 +499,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |

@@ -35,6 +35,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
@@ -214,6 +215,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -276,6 +278,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
@@ -522,6 +525,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3310-remove-methods-from-project/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -675,6 +679,7 @@
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -75,6 +75,7 @@
 | [0877-stone-game](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1140-stone-game-ii/) | Medium |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1510-stone-game-iv/) | Hard |
@@ -176,6 +177,7 @@
 | [1288-remove-covered-intervals](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1406-stone-game-iii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1406-stone-game-iii/) | Hard |
@@ -327,6 +329,7 @@
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1140-stone-game-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1140-stone-game-ii/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -591,6 +594,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1352-product-of-the-last-k-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [2043-simple-bank-system](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
@@ -737,4 +741,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/0232-implement-queue-using-stacks/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->

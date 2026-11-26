@@ -92,6 +92,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3360-stone-removal-game](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -588,6 +589,7 @@
 | [2043-simple-bank-system](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3360-stone-removal-game](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Monotonic Stack

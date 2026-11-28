@@ -254,6 +254,7 @@
 | [3904-smallest-stable-index-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -388,6 +389,7 @@
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +422,7 @@
 | [3731-find-missing-elements](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -492,6 +495,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3620-network-recovery-pathways](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3620-network-recovery-pathways/) | Hard |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/unmesh-patil-mh/DSA_Leetcode/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
